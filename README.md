@@ -1,5 +1,5 @@
 
-smart-todo-app-mfm.netlify.app
+https://smart-todo-app-mfm.netlify.app/
 
 # React + Vite
 
